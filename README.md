@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[](https://img.shields.io/badge/#20C997?style=flat-square&logo\Velog&logoColor=white&link=https://velog.io/@fdongfdong)
+[Velog](https://img.shields.io/badge/#20C997?style=flat-square&logo\Velog&logoColor=white&link=https://velog.io/@fdongfdong)
