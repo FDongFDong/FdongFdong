@@ -27,6 +27,10 @@ ___
 ### Project
 #### Toy Project
 [STARBUCKS Clone Coding]()
+Stack
+- HTML
+- CSS
+- JS
 
 
 <hr>
