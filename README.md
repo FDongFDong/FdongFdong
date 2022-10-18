@@ -26,7 +26,7 @@ ___
 
 ### Project
 #### Toy Project
-[Starbucks Clone Coding]()
+[STARBUCKS Clone Coding]()
 
 
 <hr>
