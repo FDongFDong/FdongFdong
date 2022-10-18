@@ -17,7 +17,7 @@ ___
 </table>
 
 ## 공부자료
-**ㅎㅎ**
+
 
 ### Language
  - [Go](https://github.com/FDongFDong/go_language_practice)
