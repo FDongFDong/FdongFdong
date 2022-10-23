@@ -6,6 +6,7 @@ ___
 
 ___
 ## Algorithm
+ - [Algorithm_Study](https://github.com/FdongFdong/algorithm) 
 
 <table>
 <!--     <td align="center">Github</td> -->
@@ -28,8 +29,7 @@ ___
 
  - [React](https://github.com/FdongFdong/react_practice)
 
-### Algorithm
- - [Algorithm_Study](https://github.com/FdongFdong/algorithm) 
+
 
 ### Blockchain
 #### Private Blockchain
