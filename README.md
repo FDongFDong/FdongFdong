@@ -15,7 +15,9 @@ ___
         <td height="140px"> <a href="https://solved.ac/abnormal5626"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abnormal5626" /></a> </td>
     </tr>
 </table>
+
 ___
+
 ## Study
 
 
@@ -40,8 +42,8 @@ ___
 ### etc.
  - [Webpack](https://github.com/FdongFdong/webpack_practice)
  
-<br/>
 ___
+
 ## Project
 ### Toy Project
 [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
