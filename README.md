@@ -43,7 +43,7 @@ ___
 <br/>
 
 ## Project
-#### Toy Project
+### Toy Project
 [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
 
 Stack
@@ -51,6 +51,9 @@ Stack
 - CSS
 - JS
 
+### Team Project
+[Klaypod]()
 
 <hr>
+
 
