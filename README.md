@@ -16,7 +16,7 @@ ___
     </tr>
 </table>
 
-## 공부자료
+## Study
 
 
 ### Language
