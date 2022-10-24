@@ -27,6 +27,7 @@ ___
  - [javaScript/TypeScript]
  - [Python]
  - [C/C++]
+ - [Solidity]
  
 ### Library
 
