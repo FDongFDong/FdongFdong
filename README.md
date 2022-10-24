@@ -24,12 +24,19 @@ ___
 
 ### Language
  - [Go](https://github.com/FDongFDong/go_language_practice)
-
+ - [javaScript/TypeScript]
+ - [Python]
+ - [C/C++]
+ 
 ### Library
 
+#### Front
  - [React](https://github.com/FdongFdong/react_practice)
-
-
+ - [Next.js]
+ 
+#### Back
+ - [Node.js]
+ - [Nest.js]
 
 ### Blockchain
 #### Private Blockchain
