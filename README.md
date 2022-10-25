@@ -28,6 +28,7 @@ ___
  - [Python]
  - [C/C++]
  - [Solidity]
+ - [Rust]
  
 ### Library
 
