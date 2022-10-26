@@ -27,7 +27,7 @@ ___
  - [javaScript/TypeScript]
  - [Python]
  - [C/C++]
- - [Solidity]
+ - [Solidity](https://github.com/FDongFDong/solidity_practice)
  - [Rust]
  
 ### Library
