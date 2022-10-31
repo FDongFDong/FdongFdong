@@ -30,13 +30,11 @@ ___
  - [Solidity](https://github.com/FDongFDong/solidity_practice)
  - [Rust]
  
-### Library
+### Library & Framework
 
-#### Front
+
  - [React](https://github.com/FdongFdong/react_practice)
  - [Next.js]
- 
-#### Back
  - [Node.js]
  - [Nest.js]
 
