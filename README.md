@@ -42,9 +42,9 @@
   - [Next.js]
   - [Node.js]
   - [Nest.js]
-  - [Web3.py]
+  - [Web3]
 - Python
-  - [Web3.py]
+  - [Web3]
 
 ### Blockchain
 
