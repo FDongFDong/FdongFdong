@@ -30,7 +30,7 @@
 ### Language
 
 - [Go](https://github.com/FDongFDong/go_language_practice)
-- [javaScript/TypeScript]
+- [JavaScript/TypeScript]
 - [Python]
 - [C/C++]
 - [Solidity](https://github.com/FDongFDong/solidity_practice)
