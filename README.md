@@ -43,9 +43,9 @@
   - [Next.js]
   - [Node.js]
   - [Nest.js]
-  - [Web3]
+  - [Web3](https://github.com/FDongFDong/web3-practice)
 - Python
-  - [Web3]
+  - [Web3](https://github.com/FDongFDong/web3-practice)
 
 ### Blockchain
 
