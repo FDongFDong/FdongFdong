@@ -55,8 +55,8 @@
 #### Public Blockchain
 
 - Ethereum Network
-- [Defi](https://github.com/FDongFDong/DeFi_practice)
--
+    - [Defi](https://github.com/FDongFDong/DeFi_practice)
+    - [NFT]()
 ### etc.
 
 - [Webpack](https://github.com/FdongFdong/webpack_practice)
