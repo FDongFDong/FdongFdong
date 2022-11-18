@@ -29,7 +29,8 @@
 ### Language
 
 - [Go](https://github.com/FDongFDong/go_language_practice)
-- [JavaScript/TypeScript]
+- [JavaScript]()
+- [TypeScript](https://github.com/FDongFDong/typescript_practice)
 - [Python]
 - [C/C++]
 - [Solidity](https://github.com/FDongFDong/solidity_practice)
