@@ -20,7 +20,6 @@
         <td height="140px"> <a href="https://solved.ac/abnormal5626"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abnormal5626" /></a> </td>
     </tr>
 </table>
-
 ---
 
 ## Study
