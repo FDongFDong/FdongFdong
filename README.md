@@ -60,11 +60,11 @@
 
 [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
 
-- Go
-
 
 ### Team Project
 
+디파이 가격비교 서비스 스캐너(Scanner) 
 [Klaypod](https://github.com/FDongFDong/Klaypod)
-
+DEX
+[WEMEX](https://codestates.notion.site/WEMEX-f8f2d9d98e164743b9efc67870884a52)
 ___
