@@ -52,6 +52,6 @@
 
 - 디파이 가격비교 서비스 스캐너(Scanner) 
   - [Klaypod](https://www.notion.so/5-KlayPod-396ad764445d4c86bca89da51ea69535)
-- DEX
+- DEX Project
   - [WEMEX](https://codestates.notion.site/WEMEX-f8f2d9d98e164743b9efc67870884a52)
 ___
