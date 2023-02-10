@@ -53,4 +53,6 @@
   - [Klaypod](https://www.notion.so/5-KlayPod-396ad764445d4c86bca89da51ea69535)
 - DEX Project
   - [WEMEX](https://codestates.notion.site/WEMEX-f8f2d9d98e164743b9efc67870884a52)
+- Golang을 이용한 Backend 서버 구축
+  - [Go Server](https://github.com/FDongFDong/WBABEProject-04)
 ___
