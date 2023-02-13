@@ -47,10 +47,11 @@
 ### Toy Project
 
 - [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
-- Golang - MongoDB를 이용한 Backend 서버 구축
+- Backend
+Golang과 MongoDB를 이용한 Backend 서버 구축
   - [배달 앱](https://github.com/FDongFDong/WBABEProject-04)
 - Blockchain
-  - [Lottery App]()
+  - [Gambling DApp](https://github.com/FDongFDong/Gambling-DApp)
 ### Team Project
 
 - 디파이 가격비교 서비스 스캐너(Scanner) 
