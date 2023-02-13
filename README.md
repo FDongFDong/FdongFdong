@@ -30,9 +30,10 @@
 
 ### Public Blockchain
 
-- Ethereum Network
-    - [DeFi](https://github.com/FDongFDong/DeFi_practice)
-    - [NFT]()
+- [DeFi](https://github.com/FDongFDong/DeFi_practice)
+- [NFT]()
+- [Daemon Server]()
+
 ## etc.
 
 - [Webpack](https://github.com/FdongFdong/webpack_practice)
