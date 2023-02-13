@@ -48,7 +48,6 @@
 
 - [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
 - Backend
-Golang과 MongoDB를 이용한 Backend 서버 구축
   - [배달 앱](https://github.com/FDongFDong/WBABEProject-04)
 - Blockchain
   - [Gambling DApp](https://github.com/FDongFDong/Gambling-DApp)
