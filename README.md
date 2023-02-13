@@ -48,7 +48,7 @@
 
 - [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
 - Golang - MongoDB를 이용한 Backend 서버 구축
-  - [Go Server](https://github.com/FDongFDong/WBABEProject-04)
+  - [배달 앱](https://github.com/FDongFDong/WBABEProject-04)
 ### Team Project
 
 - 디파이 가격비교 서비스 스캐너(Scanner) 
