@@ -6,7 +6,6 @@
 ---
 ## Algorithm
 
-
 ## Language
 
 - [Go](https://github.com/FDongFDong/go_language_practice)
