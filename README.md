@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdongfdong)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
+# Study
+
 ## Language
 
 - [Go](https://github.com/FDongFDong/go_language_practice)
@@ -39,9 +41,9 @@
 ---
 
 
-## Project
+# Project
 
-### Toy Project
+## Toy Project
 
 - Frontend
   - [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
@@ -49,7 +51,7 @@
   - [주문 서비스 앱](https://github.com/FDongFDong/WBABEProject-04)
 - Blockchain
   - [Gambling DApp](https://github.com/FDongFDong/Gambling-DApp)
-### Team Project
+## Team Project
 
 - Blockchain
   - 디파이 가격비교 서비스 스캐너(Scanner) 
