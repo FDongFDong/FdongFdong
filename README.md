@@ -44,17 +44,18 @@
 ## Project
 
 ### Toy Project
-
-- [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
+- Frontend
+  - [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
 - Backend
   - [배달 앱](https://github.com/FDongFDong/WBABEProject-04)
 - Blockchain
   - [Gambling DApp](https://github.com/FDongFDong/Gambling-DApp)
 ### Team Project
 
-- 디파이 가격비교 서비스 스캐너(Scanner) 
-  - [Klaypod](https://www.notion.so/5-KlayPod-396ad764445d4c86bca89da51ea69535)
-- DEX Project
-  - [WEMEX](https://codestates.notion.site/WEMEX-f8f2d9d98e164743b9efc67870884a52)
+- Blockchain
+  - 디파이 가격비교 서비스 스캐너(Scanner) 
+    - [Klaypod](https://www.notion.so/5-KlayPod-396ad764445d4c86bca89da51ea69535)
+  - DEX Project
+    - [WEMEX](https://codestates.notion.site/WEMEX-f8f2d9d98e164743b9efc67870884a52)
 
 ___
