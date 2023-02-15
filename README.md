@@ -30,7 +30,7 @@
 ### Public Blockchain
 
 - [DeFi](https://github.com/FDongFDong/DeFi_practice)
-- [NFT]()
+- [NFT](https://github.com/FDongFDong/NFT)
 - [Wallet]()
 
 
