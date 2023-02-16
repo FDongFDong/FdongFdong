@@ -31,7 +31,7 @@
 
 - [DeFi](https://github.com/FDongFDong/DeFi_practice)
 - [NFT](https://github.com/FDongFDong/NFT)
-- [Wallet]()
+- [Wallet](https://github.com/FDongFDong/wallet)
 
 
 ## etc.
