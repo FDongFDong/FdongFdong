@@ -28,6 +28,7 @@
 - [Hyperledger Fabric](https://github.com/FDongFDong/Hyperledger_Fabric_practice)
 
 ### Public Blockchain
+- [PoW 구현하기](https://lateral-lifeboat-0a9.notion.site/Blockchain-09-Golang-977453397bda469693643d0ef52849c2)
 - [ERC20-1](https://www.notion.so/ERC-20-WEMIX-Testnet-ddf28f54b9f945acb845f2f816aacca7)
 - [ERC20-2](https://www.notion.so/ERC-20-WEMIX-Testnet-e8702568f1194e08b31f5c9137219680?pvs=4)
 - [ERC721](https://lateral-lifeboat-0a9.notion.site/ERC-721-OpenSea-Testnet-ee9e6989437148e58f5a6718f14ffafb)
