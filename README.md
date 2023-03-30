@@ -37,7 +37,6 @@
 - [Wallet](https://github.com/FDongFDong/wallet)
   - [Gnosis Multisig Contract 뜯어먹기](https://www.notion.so/Gnosis-Multisig-Contract-b60630e393944ac68da5f214e4a89cc2?pvs=4)
 
-
 ## etc.
 
 - [Webpack](https://github.com/FdongFdong/webpack_practice)
