@@ -6,6 +6,7 @@
 
 # Study
 
+
 ## Language
 
 - [Go](https://github.com/FDongFDong/go_language_practice)
@@ -18,6 +19,7 @@
 - [C/C++]
 - [Solidity](https://github.com/FDongFDong/solidity_practice)
 - [Rust]
+
 
 ## Blockchain
 - [Blockchain](https://github.com/FDongFDong/BlockChain_study)
