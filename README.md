@@ -12,6 +12,7 @@
 - [Go](https://github.com/FDongFDong/go_language_practice)
 - [JavaScript]()
   - [React.js](https://github.com/FdongFdong/react_practice)
+  - [Next.js]()
   - [Web3](https://github.com/FDongFDong/web3-practice)
 - [TypeScript](https://github.com/FDongFDong/typescript_practice)
 - [Python]
