@@ -21,7 +21,6 @@
 - [Solidity](https://github.com/FDongFDong/solidity_practice)
 - [Rust]
 
-
 ## Blockchain
 - [Blockchain](https://github.com/FDongFDong/BlockChain_study)
 - [Daemon Server](https://github.com/FDongFDong/blockchain_daemon_server)
