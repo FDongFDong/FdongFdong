@@ -8,7 +8,6 @@
 
 ## Language
 
-
 - [Go](https://github.com/FDongFDong/go_language_practice)
 - [JavaScript]()
   - [React.js](https://github.com/FdongFdong/react_practice)
