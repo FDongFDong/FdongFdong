@@ -48,9 +48,6 @@
 # Project
 
 ## Toy Project
-
-- Frontend
-  - [STARBUCKS Clone Coding](https://github.com/FDongFDong/STARTBUCKS/blob/main/README.md)
 - Backend
   - [주문 서비스 앱](https://github.com/FDongFDong/WBABEProject-04)
 - Blockchain
