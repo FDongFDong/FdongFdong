@@ -23,26 +23,9 @@
 
 ### Private Blockchain
 
-- [Hyperledger Fabric](https://github.com/FDongFDong/Hyperledger_Fabric_practice)
-
 ### Public Blockchain
-- [PoW 구현하기 1](https://lateral-lifeboat-0a9.notion.site/Blockchain-09-Golang-977453397bda469693643d0ef52849c2)
-- [PoW 구현하기 2](https://lateral-lifeboat-0a9.notion.site/Golang-RESTful-f5179865f27d4b568972c4c8256174dd)
-- [ERC20-1](https://www.notion.so/ERC-20-WEMIX-Testnet-ddf28f54b9f945acb845f2f816aacca7)
-- [ERC20-2](https://www.notion.so/ERC-20-WEMIX-Testnet-e8702568f1194e08b31f5c9137219680?pvs=4)
-- [DeFi](https://github.com/FDongFDong/DeFi_practice)
-- [NFT - ERC721](https://github.com/FDongFDong/NFT)
-- [Wallet](https://github.com/FDongFDong/wallet)
-  - [Gnosis Multisig Contract 뜯어먹기](https://www.notion.so/Gnosis-Multisig-Contract-b60630e393944ac68da5f214e4a89cc2?pvs=4)
 
 ## etc.
-
-- [Webpack](https://github.com/FdongFdong/webpack_practice)
-- [Geth](https://github.com/FDongFDong/go-ethereum-practice#readme)
-- [Sass](https://github.com/FDongFDong/Sass_practice)
-- [Terraform on AWS]
----
-<!--
 
 # Project
 
