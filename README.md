@@ -23,6 +23,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
@@ -47,6 +49,28 @@
 `React 18` `TypeScript` `TanStack Router` `Tailwind CSS` `Zustand` `Node.js`
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
+
+</div>
+
+---
+
+## ⛓️ Smart Contract
+
+### 📝 ERC Token Standards Implementation
+
+<div align="center">
+
+**Company Project** | **Blockchain**
+
+💎 다양한 ERC 표준을 준수하는 스마트 컨트랙트 설계 및 BSC 메인넷 배포
+
+**구현 표준**
+`ERC-20` `ERC-20 Permit` `ERC-721` `ERC-1155`
+
+**Tech Stack**
+`Solidity` `Foundry` `Wagmi` `BSC Network`
+
+[![Deployed Contract](https://img.shields.io/badge/BSCScan-FCC624?style=for-the-badge&logo=binance&logoColor=black)](https://bscscan.com/address/0x01B425FDE4653b630e911159FBDb0DB9E41E3dcf)
 
 </div>
 
