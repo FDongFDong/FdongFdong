@@ -52,6 +52,31 @@
 
 </div>
 
+### 🔐 Starlight Passkey Wallet - WebAuthn 기반 암호화폐 지갑
+
+<div align="center">
+
+**Company Project** | **Web3 Frontend**
+
+🛡️ WebAuthn PRF를 활용한 제로널리지 패스키 지갑 (생체인식 기반 트랜잭션 서명)
+
+**핵심 기여**
+메타마스크 비동기 팝업 UX 문제 해결 → 생체인식 원클릭 서명으로 사용성 개선
+
+**개발 방법론**
+`WebAuthn PRF Extension` `AES-GCM Encryption` `HMAC Integrity Verification`
+
+**Tech Stack**
+`React 19` `TypeScript` `Viem` `WebAuthn` `BIP39` `HD Wallet`
+
+**구현 기능**
+- 🔐 WebAuthn PRF로 암호화 키 생성 (생체인식 기반)
+- 🛡️ AES-GCM + HMAC-SHA256 무결성 검증
+- ⚡ 메타마스크 대비 빠른 트랜잭션 서명 (비동기 팝업 제거)
+- 🌐 Multi-chain 지원 (BSC, ETH 등 EVM 호환)
+
+</div>
+
 ---
 
 ## ⛓️ Smart Contract
