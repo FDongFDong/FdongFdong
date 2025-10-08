@@ -30,67 +30,30 @@
 
 ---
 
-## 💼 Featured Projects
+## 🎯 바이브 코딩
 
-### 🔗 Klaypod - 디파이 가격비교 서비스 스캐너
-
-<div align="center">
-
-**Team Project** | **Blockchain**
-
-📊 DeFi 프로토콜 간 가격을 비교하고 최적의 거래 경로를 제공하는 스캐너 서비스
-
-`Blockchain` `DeFi` `Price Scanner` `Klaytn`
-
-[![View Project](https://img.shields.io/badge/View_Project-4A154B?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/KlayPod-9fe566f84deb4d4b8f89add46c900081?pvs=4)
-
-</div>
-
----
-
-### 💱 WEMEX - DEX 프로젝트
+### 🔍 TruthLens - AI 텍스트 검증 서비스
 
 <div align="center">
 
-**Team Project** | **Blockchain**
+**Vibe Coding Project** | **Full Stack**
 
-🔄 스마트 컨트랙트 기반 탈중앙화 거래소(DEX) 플랫폼
+🤖 한국어 텍스트의 AI 작성 확률을 분석하고 개선 제안을 제공하는 웹 애플리케이션
 
-`Blockchain` `DEX` `Smart Contract` `DeFi`
+**주요 기능**
+- 99.2% 정확도의 AI 텍스트 감지
+- 하이브리드 분석 엔진을 통한 한국어 특화 분석
+- 빠른 처리 속도 (Lite: 2초, Pro: 5초)
+- 시각화된 분석 결과 및 개선 제안
+- SHA-256 해시 기반 프라이버시 보호
 
-[![View Project](https://img.shields.io/badge/View_Project-4A154B?style=for-the-badge&logo=notion&logoColor=white)](https://lateral-lifeboat-0a9.notion.site/WEMEX-ac6b03abe5ca4b80bf3f145379da8952)
+**Tech Stack**
 
-</div>
+`React 18` `TypeScript` `TanStack Router` `Tailwind CSS` `Recharts` `Zustand`
 
----
+`Node.js` `TypeScript` `Domain-Driven Design` `RESTful API`
 
-### 📦 주문 서비스 앱
-
-<div align="center">
-
-**Toy Project** | **Backend**
-
-🛒 효율적인 주문 처리 및 관리를 위한 백엔드 시스템
-
-`Backend` `Go` `API` `Database`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/WBABEProject-04)
-
-</div>
-
----
-
-### 🎰 Gambling DApp
-
-<div align="center">
-
-**Toy Project** | **Blockchain**
-
-🎲 스마트 컨트랙트를 활용한 탈중앙화 게임 애플리케이션
-
-`DApp` `Solidity` `Web3` `Smart Contract`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/Gambling-DApp)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
 
 </div>
 
