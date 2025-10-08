@@ -40,18 +40,11 @@
 
 🤖 한국어 텍스트의 AI 작성 확률을 분석하고 개선 제안을 제공하는 웹 애플리케이션
 
-**주요 기능**
-- 99.2% 정확도의 AI 텍스트 감지
-- 하이브리드 분석 엔진을 통한 한국어 특화 분석
-- 빠른 처리 속도 (Lite: 2초, Pro: 5초)
-- 시각화된 분석 결과 및 개선 제안
-- SHA-256 해시 기반 프라이버시 보호
+**개발 방법론**
+`Domain-Driven Design` `RESTful API`
 
 **Tech Stack**
-
-`React 18` `TypeScript` `TanStack Router` `Tailwind CSS` `Recharts` `Zustand`
-
-`Node.js` `TypeScript` `Domain-Driven Design` `RESTful API`
+`React 18` `TypeScript` `TanStack Router` `Tailwind CSS` `Zustand` `Node.js`
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
 
