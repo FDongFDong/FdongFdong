@@ -1,17 +1,11 @@
-<div align="center">
-
-# 👨‍💻 Full Stack & Blockchain Developer
+# Full Stack & Blockchain Developer
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdongfdong&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/fdongfdong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdongfdong&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/fdongfdong)
 
-</div>
-
 ---
 
-## 🛠 Tech Stack
-
-<div align="center">
+## Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,19 +22,15 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-</div>
-
 ---
 
-## 🎯 바이브 코딩
+## 바이브 코딩
 
-### 🔍 TruthLens - AI 텍스트 검증 서비스
-
-<div align="center">
+### TruthLens - AI 텍스트 검증 서비스
 
 **Vibe Coding Project** | **Full Stack**
 
-🤖 한국어 텍스트의 AI 작성 확률을 분석하고 개선 제안을 제공하는 웹 애플리케이션
+한국어 텍스트의 AI 작성 확률을 분석하고 개선 제안을 제공하는 웹 애플리케이션
 
 **개발 방법론**
 `Domain-Driven Design` `RESTful API`
@@ -50,15 +40,11 @@
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
 
-</div>
-
-### 🔐 Starlight Passkey Wallet - WebAuthn 기반 암호화폐 지갑
-
-<div align="center">
+### Starlight Passkey Wallet - WebAuthn 기반 암호화폐 지갑
 
 **Company Project** | **Web3 Frontend**
 
-🛡️ WebAuthn PRF를 활용한 제로널리지 패스키 지갑 (생체인식 기반 트랜잭션 서명)
+WebAuthn PRF를 활용한 제로널리지 패스키 지갑 (생체인식 기반 트랜잭션 서명)
 
 **핵심 기여**
 메타마스크 비동기 팝업 UX 문제 해결 → 생체인식 원클릭 서명으로 사용성 개선
@@ -69,8 +55,6 @@
 **Tech Stack**
 `React 19` `TypeScript` `Viem` `WebAuthn` `BIP39` `HD Wallet`
 
-</div>
-
 **구현 기능**
 - WebAuthn PRF로 암호화 키 생성 (생체인식 기반)
 - AES-GCM + HMAC-SHA256 무결성 검증
@@ -79,15 +63,13 @@
 
 ---
 
-## ⛓️ Smart Contract
+## Smart Contract
 
-### 📝 ERC Token Standards Implementation
-
-<div align="center">
+### ERC Token Standards Implementation
 
 **Company Project** | **Blockchain**
 
-💎 다양한 ERC 표준을 준수하는 스마트 컨트랙트 설계 및 BSC 메인넷 배포
+다양한 ERC 표준을 준수하는 스마트 컨트랙트 설계 및 BSC 메인넷 배포
 
 **구현 표준**
 `ERC-20` `ERC-20 Permit` `ERC-721` `ERC-1155`
@@ -97,14 +79,12 @@
 
 [![Deployed Contract](https://img.shields.io/badge/BSCScan-FCC624?style=for-the-badge&logo=binance&logoColor=black)](https://bscscan.com/address/0x01B425FDE4653b630e911159FBDb0DB9E41E3dcf)
 
-</div>
-
 ---
 
-## 📚 Learning & Practice
+## Learning & Practice
 
 <details>
-<summary><b>🔍 Click to expand</b></summary>
+<summary><b>Click to expand</b></summary>
 
 ### Language Practice
 - [Go Language](https://github.com/FDongFDong/go_language_practice)
@@ -121,10 +101,6 @@
 
 ---
 
-<div align="center">
-
-### 📫 Contact
+## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong)
-
-</div>
