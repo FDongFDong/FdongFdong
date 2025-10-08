@@ -69,13 +69,13 @@
 **Tech Stack**
 `React 19` `TypeScript` `Viem` `WebAuthn` `BIP39` `HD Wallet`
 
+</div>
+
 **구현 기능**
 - WebAuthn PRF로 암호화 키 생성 (생체인식 기반)
 - AES-GCM + HMAC-SHA256 무결성 검증
 - 메타마스크 대비 빠른 트랜잭션 서명 (비동기 팝업 제거)
 - Multi-chain 지원 (BSC, ETH 등 EVM 호환)
-
-</div>
 
 ---
 
