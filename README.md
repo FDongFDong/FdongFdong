@@ -55,7 +55,7 @@ WebAuthn PRF를 활용한 제로널리지 패스키 지갑 (생체인식 기반 
 **Tech Stack**
 `React 19` `TypeScript` `Viem` `WebAuthn` `BIP39` `HD Wallet`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4A5AFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.starlightchain.xyz/)
+[![Live Service](https://img.shields.io/badge/Live_Service-4A5AFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.starlightchain.xyz/)
 
 **구현 기능**
 - WebAuthn PRF로 암호화 키 생성 (생체인식 기반)
