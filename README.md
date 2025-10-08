@@ -40,9 +40,13 @@
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
 
+---
+
+## Company Projects
+
 ### Starlight Passkey Wallet - WebAuthn 기반 암호화폐 지갑
 
-**Company Project** | **Web3 Frontend**
+**Web3 Frontend**
 
 WebAuthn PRF를 활용한 제로널리지 패스키 지갑 (생체인식 기반 트랜잭션 서명)
 
@@ -63,13 +67,9 @@ WebAuthn PRF를 활용한 제로널리지 패스키 지갑 (생체인식 기반 
 - 메타마스크 대비 빠른 트랜잭션 서명 (비동기 팝업 제거)
 - Multi-chain 지원 (BSC, ETH 등 EVM 호환)
 
----
-
-## Smart Contract
-
 ### ERC Token Standards Implementation
 
-**Company Project** | **Blockchain**
+**Blockchain**
 
 다양한 ERC 표준을 준수하는 스마트 컨트랙트 설계 및 BSC 메인넷 배포
 
