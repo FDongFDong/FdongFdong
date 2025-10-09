@@ -40,6 +40,27 @@
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
 
+### 비디오 다운로더 & 프레임 추출 툴
+
+**Vibe Coding Project** | **Full Stack**
+
+2GB+ 대용량 파일 스트리밍 지원하는 비디오 다운로드 및 프레임 추출 웹 애플리케이션
+
+**핵심 기능**
+- 자동/고급 모드 비디오 다운로드 (yt-dlp 기반 1440p60 지원)
+- 범용 다운로드 (1000+ 사이트, 쿠키 인증, Chrome 클로닝)
+- FFmpeg 프레임 추출 (설정 가능한 FPS, ZIP 압축)
+- 2GB+ 파일 스트리밍 (메모리 최적화, ReadStream 방식)
+- 실시간 진행률 추적 (sessionId 기반 polling)
+
+**개발 방법론**
+`RESTful API` `Session Management` `File Streaming` `Browser Cloning`
+
+**Tech Stack**
+`Next.js 15` `React 19` `TypeScript` `Tailwind CSS v4` `yt-dlp` `FFmpeg` `Archiver`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/downloader)
+
 ---
 
 ## Company Projects
