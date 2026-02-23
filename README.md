@@ -102,6 +102,24 @@ WebAuthn PRF를 활용한 제로널리지 패스키 지갑 (생체인식 기반 
 
 [![Deployed Contract](https://img.shields.io/badge/BSCScan-FCC624?style=for-the-badge&logo=binance&logoColor=black)](https://bscscan.com/address/0x01B425FDE4653b630e911159FBDb0DB9E41E3dcf)
 
+### Celebus Contracts
+**Blockchain** | **Full Stack**
+
+EIP-712 배치 서명 기반 투표·부스팅 시스템 — 100명의 투표를 1건의 트랜잭션으로 처리하여 가스비 70-80% 절감
+
+**핵심 기능**
+- EIP-712 구조화 서명 + 2단계 검증 (Executor 배치 + 사용자 개별 서명)
+- Soft-fail 배치 처리 — 한 유저의 실패가 전체 배치에 영향 없음
+- EOA + 스마트 월렛(ERC-1271) 이중 서명 지원
+- 285개 Foundry 테스트 (유닛 + 인배리언트) 전수 통과
+- Next.js 16 데모 프론트엔드 (viem + Zustand + shadcn/ui)
+
+**설계 방법론**
+`EIP-712` `Batch Processing` `Gas Optimization` `Soft-fail Pattern` `Foundry TDD`
+
+**Tech Stack**
+`Solidity 0.8.27` `Foundry` `OpenZeppelin 5.x` `Next.js 16` `TypeScript` `viem` `Tailwind CSS v4`
+
 ---
 
 ## Learning & Practice
