@@ -1,11 +1,19 @@
-# Full Stack & Blockchain Developer
+# Blockchain & Full Stack Developer
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdongfdong&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/fdongfdong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdongfdong&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/fdongfdong)
 
+EVM 스마트 컨트랙트 설계 · EIP-712 배치 서명 · Foundry TDD | Web3 풀스택
+
 ---
 
 ## Tech Stack
+
+### Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,57 +21,14 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Backend & Blockchain
+### Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ---
 
-## 바이브 코딩
-
-### TruthLens - AI 텍스트 검증 서비스
-
-**Vibe Coding Project** | **Full Stack**
-
-한국어 텍스트의 AI 작성 확률을 분석하고 개선 제안을 제공하는 웹 애플리케이션
-
-**개발 방법론**
-`Domain-Driven Design` `RESTful API`
-
-**Tech Stack**
-`React 18` `TypeScript` `TanStack Router` `Tailwind CSS` `Zustand` `Node.js`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
-
-### 비디오 다운로더 & 프레임 추출 툴
-
-**Vibe Coding Project** | **Full Stack**
-
-2GB+ 대용량 파일 스트리밍 지원하는 비디오 다운로드 및 프레임 추출 웹 애플리케이션
-
-**핵심 기능**
-- 자동/고급 모드 비디오 다운로드 (yt-dlp 기반 1440p60 지원)
-- 범용 다운로드 (1000+ 사이트, 쿠키 인증, Chrome 클로닝)
-- FFmpeg 프레임 추출 (설정 가능한 FPS, ZIP 압축)
-- 2GB+ 파일 스트리밍 (메모리 최적화, ReadStream 방식)
-- 실시간 진행률 추적 (sessionId 기반 polling)
-
-**개발 방법론**
-`RESTful API` `Session Management` `File Streaming` `Browser Cloning`
-
-**Tech Stack**
-`Next.js 15` `React 19` `TypeScript` `Tailwind CSS v4` `yt-dlp` `FFmpeg` `Archiver`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/downloader)
-
----
-
-## Company Projects
+## Projects
 
 ### Starlight Passkey Wallet - WebAuthn 기반 암호화폐 지갑
 
@@ -119,6 +84,45 @@ EIP-712 배치 서명 기반 투표·부스팅 시스템 — 100명의 투표를
 
 **Tech Stack**
 `Solidity 0.8.27` `Foundry` `OpenZeppelin 5.x` `Next.js 16` `TypeScript` `viem` `Tailwind CSS v4`
+
+---
+
+## Side Projects
+
+### TruthLens - AI 텍스트 검증 서비스
+
+**Full Stack**
+
+한국어 텍스트의 AI 작성 확률을 분석하고 개선 제안을 제공하는 웹 애플리케이션
+
+**개발 방법론**
+`Domain-Driven Design` `RESTful API`
+
+**Tech Stack**
+`React 18` `TypeScript` `TanStack Router` `Tailwind CSS` `Zustand` `Node.js`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/truthlens)
+
+### 비디오 다운로더 & 프레임 추출 툴
+
+**Full Stack**
+
+2GB+ 대용량 파일 스트리밍 지원하는 비디오 다운로드 및 프레임 추출 웹 애플리케이션
+
+**핵심 기능**
+- 자동/고급 모드 비디오 다운로드 (yt-dlp 기반 1440p60 지원)
+- 범용 다운로드 (1000+ 사이트, 쿠키 인증, Chrome 클로닝)
+- FFmpeg 프레임 추출 (설정 가능한 FPS, ZIP 압축)
+- 2GB+ 파일 스트리밍 (메모리 최적화, ReadStream 방식)
+- 실시간 진행률 추적 (sessionId 기반 polling)
+
+**개발 방법론**
+`RESTful API` `Session Management` `File Streaming` `Browser Cloning`
+
+**Tech Stack**
+`Next.js 15` `React 19` `TypeScript` `Tailwind CSS v4` `yt-dlp` `FFmpeg` `Archiver`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/downloader)
 
 ---
 
