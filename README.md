@@ -112,7 +112,7 @@ EIP-712 배치 서명 기반 투표·부스팅 시스템 — 100명의 투표를
 - Soft-fail 배치 처리 — 한 유저의 실패가 전체 배치에 영향 없음
 - EOA + 스마트 월렛(ERC-1271) 이중 서명 지원
 - 285개 Foundry 테스트 (유닛 + 인배리언트) 전수 통과
-- Next.js 16 데모 프론트엔드 (viem + Zustand + shadcn/ui)
+- 컨트랙트 인터랙션 대시보드 — 배치 서명·검증 플로우를 시각화하는 Next.js 16 프론트엔드
 
 **설계 방법론**
 `EIP-712` `Batch Processing` `Gas Optimization` `Soft-fail Pattern` `Foundry TDD`
