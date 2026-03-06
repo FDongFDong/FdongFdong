@@ -85,6 +85,8 @@ EIP-712 배치 서명 기반 투표·부스팅 시스템 — 100명의 투표를
 **Tech Stack**
 `Solidity 0.8.27` `Foundry` `OpenZeppelin 5.x` `Next.js 16` `TypeScript` `viem` `Tailwind CSS v4`
 
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FDongFDong/celebus-contracts)
+
 ---
 
 ## Side Projects
