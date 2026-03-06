@@ -1,8 +1,5 @@
 # Blockchain & Full Stack Developer
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdongfdong&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/fdongfdong)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdongfdong&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/fdongfdong)
-
 EVM 스마트 컨트랙트 설계 · EIP-712 배치 서명 · Foundry TDD | Web3 풀스택
 
 ---
