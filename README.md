@@ -1,6 +1,6 @@
 # Blockchain & Full Stack Developer
 
-EVM 스마트 컨트랙트 설계 · EIP-712 배치 서명 · Foundry TDD | Web3 풀스택
+EVM 스마트 컨트랙트 설계 · EIP-712 배치 서명 · ERC-4337 · WebAuthn · Gas Optimization · Foundry TDD | Web3 풀스택
 
 ---
 
